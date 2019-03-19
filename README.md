@@ -31,7 +31,7 @@ We provide an [environment configuration file](environment.yml) with all the req
 conda env create
 ```
 
-wait for the environment to create, this may take a few minutes. Note that this environment is based on Python 3.6 because Tensorflow does not support Python 3.7 yet.
+wait for the environment to create, this may take a few minutes. Note that this environment is based on Python 3.6 because Anaconda has some trouble with Tensorflow Python 3.7.
 
 #### Activate the environment (Mac/Linux)
 ```

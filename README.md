@@ -35,18 +35,18 @@ wait for the environment to create, this may take a few minutes. Note that this 
 
 #### Activate the environment (Mac/Linux)
 ```
-conda activate ztdlbootcamp
+conda activate image_similarity
 ```
 
 #### Activate the environment (Windows)
 ```
-activate ztdlbootcamp
+activate image_similarity
 ```
 
 Check that your prompt changed to
 
 ```
-(ztdlbootcamp) $
+(image_similarity) $
 ```
 
 Now you can run jupyter notebook from within the environment.
@@ -86,5 +86,5 @@ deactivate
 #### Deleting the environment
 If you decide to completely delete the environment from your system you should use the following command:
 ```
-conda remove -y -n ztdlbootcamp --all
+conda remove -y -n image_similarity --all
 ```

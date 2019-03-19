@@ -1,4 +1,4 @@
-name: ztdlbootcamp
+name: image_similarity
 channels:
 - defaults
 dependencies:

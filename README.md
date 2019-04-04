@@ -3,13 +3,14 @@
 
 This repo is a large sample of the coursework in the [Zero to Deep Learning Bootcamp](https://bootcamp.zerotodeeplearning.com). The Bootcamp is a hands-on and immersive course to learn Machine Learning & Deep Learning fast with Python, Pandas, Matplotlib, Scikit-Learn, Keras and Tensorflow.
 
-## Next Bootcamps: 25-29 March, SF Bay area . [Register here](https://bootcamp.zerotodeeplearning.com)
+## Next Bootcamps: 3-7 June, San Francisco. [Register here](https://bootcamp.zerotodeeplearning.com)
 
 ## Quick start guide
 
 #### Download and install Anaconda or Miniconda Python 3
 
-Download Anaconda here: https://www.anaconda.com/download or download Miniconda here: https://docs.conda.io/en/latest/miniconda.html and then install it on your system.
+Download [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and then install it on your system.
+
 
 #### Open a terminal
 

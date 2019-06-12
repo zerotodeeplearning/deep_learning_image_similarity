@@ -1,9 +1,11 @@
+## [Check our Zero To Deep Learning 5 day bootcamp. New dates are out!](https://bootcamp.zerotodeeplearning.com)
+
+--
+
 # Image Similarity Search with Deep Learning
 
 
 This repo is a large sample of the coursework in the [Zero to Deep Learning Bootcamp](https://bootcamp.zerotodeeplearning.com). The Bootcamp is a hands-on and immersive course to learn Machine Learning & Deep Learning fast with Python, Pandas, Matplotlib, Scikit-Learn, Keras and Tensorflow.
-
-## Next Bootcamps: 3-7 June, San Francisco. [Register here](https://bootcamp.zerotodeeplearning.com)
 
 ## Quick start guide
 
